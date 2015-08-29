@@ -10,7 +10,7 @@ MAIN CLASS:MainFace
 
 here is some simples.
 
-![image](https://github.com/735254599/coloringPad/tree/master/simple/1.jpg)
-![image](https://github.com/735254599/coloringPad/tree/master/simple/2.jpg)
-![image](https://github.com/735254599/coloringPad/tree/master/simple/3.jpg)
-![image](https://github.com/735254599/coloringPad/tree/master/simple/4.jpg)
+![image](https://raw.githubusercontent.com/735254599/coloringPad/master/simple/1.jpg)
+![image](https://raw.githubusercontent.com/735254599/coloringPad/master/simple/2.jpg)
+![image](https://raw.githubusercontent.com/735254599/coloringPad/master/simple/3.jpg)
+![image](https://raw.githubusercontent.com/735254599/coloringPad/master/simple/4.jpg)
