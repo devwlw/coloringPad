@@ -240,10 +240,7 @@ public class SetMenu extends Pull{
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
-
-				g2.drawString("开发团队:       成大ISIS团队", 50, 100);
-				g2.drawString("开发人员:       汪林巍、姜茂林、谢伟",50, 150);
-				g2.drawString("                  董玮、王苓力", 50, 200);
+				g2.drawString("汪林巍    735254599@qq.com",50, 150);
 				try {
 					g.setFont(FontFactory.getOstrichFont(15.0f));
 				} catch (FontFormatException e) {
@@ -254,8 +251,7 @@ public class SetMenu extends Pull{
 					e.printStackTrace();
 				}
 				g2.drawString("由于时间不足以及某些技术不到位，程序功能还不尽", 50, 250);
-				g2.drawString("人意，我们将在V2.0中完善程序的功能", 50, 300);
-				g2.drawString("感谢小组成员的辛勤付出!", 50, 350);
+				g2.drawString("人意，将在V2.0中完善程序的功能", 50, 300);
 			}
 			public ImageButton getClose() {
 				return close;
